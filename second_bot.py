@@ -7,8 +7,8 @@ from insta_bot import InstagramBot
 
 if __name__ == "__main__":
 
-    username = "justcats2dogs"
-    password = "TESTtest1997"
+    username = ""
+    password = ""
     hashtags = [
         "beautiful",
         "adventure",
