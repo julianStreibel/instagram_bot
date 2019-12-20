@@ -1,6 +1,6 @@
 ## Instagram Bot
 
-This project is for parallel instagram bots.
+This project is for parallel instagram bots. It uses Selenium and some randomness to look like a normal user.
 The build in functions include following followers from specific pages, commenting, liking, unfollowing, ...
 Each bot has a friendbook with all his 'siblings' so they can support themself.
 You get set some values for max engagement so the accounts wont get flaged.
