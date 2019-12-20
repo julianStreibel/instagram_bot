@@ -8,7 +8,7 @@ processes = (
 
 
 def run_process(process):
-    os.system("python {}".format(process))
+    os.system("python2 {}".format(process))
 
 
 pool = Pool(processes=2)
