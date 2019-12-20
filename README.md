@@ -7,7 +7,7 @@ You get set some values for max engagement so the accounts wont get flaged.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development demo purposes.
+These instructions will get you a copy of the project up and running on your local machine for demo purposes.
 
 You have to include the right version (for your chrome browser version) of [cromedriver](https://chromedriver.chromium.org/downloads) in your PATH.
 
