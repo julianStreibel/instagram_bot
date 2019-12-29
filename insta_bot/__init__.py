@@ -18,7 +18,7 @@ class InstagramBot:
     # Constructor
     # username: of instagram acc
     # password: of insagram acc
-    # browser: ("chrome" | "firefox") in which the bot works has to be diffrent in every bot on one machine
+    # browser: ("chrome" | "firefox"), use chrome for multiprocessing 
     def __init__(self, username, password, browser):
         self.username = username
         self.password = password
